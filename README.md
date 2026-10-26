@@ -50,9 +50,7 @@
 
 Το καθαρό κόστος ανά τεμάχιο υπολογίζεται από την καθαρή αξία της γραμμής (`NetTotal`) διαιρεμένη με την ποσότητα (`Quantity`).
 
-\[
-C_{\text{net}}=\frac{\text{NetTotal}}{\text{Quantity}}
-\]
+$$ C_{\text{net}}=\frac{\text{NetTotal}}{\text{Quantity}} $$
 
 Η υλοποίηση χρησιμοποιεί:
 
