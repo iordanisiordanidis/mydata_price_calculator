@@ -68,10 +68,7 @@ $$ C_{\text{VAT}}=\text{round}\left(C_{\text{net}}\left(1+\frac{V}{100}\right),2
 
 Στο κόστος με ΦΠΑ εφαρμόζεται το ποσοστό προσαύξησης που έχει επιλέξει ο χρήστης.
 
-\[
-P=\operatorname{round}
-\left(C_{\text{VAT}}\left(1+\frac{M}{100}\right),2\right)
-\]
+$$ P=\text{round}\left(C_{\text{VAT}}\left(1+\frac{M}{100}\right),2\right) $$
 
 Όπου \(M\) είναι το ποσοστό markup.
 
